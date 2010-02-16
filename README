@@ -5,11 +5,11 @@ tokens: BaseChar, Ideographic, Letter, Digit, Extender, CombiningChar,
 NameChar, EntityRef, CharRef, Reference, Name, NmToken, and AttValue.
 
 Runtime requirements:
-  perl-5.10.0-3
+  perl-5.10.1-2
 
 Build requirements:
-  cygport-0.3.9-1
-  make-3.81-1
+  cygport-0.9.80-1
+  make-3.81-2
 
 Canonical website:
   http://search.cpan.org/dist/XML-RegExp/
@@ -32,20 +32,10 @@ This will create:
 
 -------------------------------------------
 
-Files included in the binary package:
-
-  /usr/lib/perl5/vendor_perl/5.10/XML/RegExp.pm
-  /usr/lib/perl5/vendor_perl/5.10/i686-cygwin/auto/XML/RegExp/.packlist
-  /usr/share/doc/perl-XML-RegExp-0.03/Changes
-  /usr/share/doc/perl-XML-RegExp-0.03/README
-  /usr/share/man/man3/XML.RegExp.3pm.gz
-
-------------------
-
 Port Notes:
 
------ version 0.03-1 -----
-Initial release for Cygwin.
+----- version 0.03-2 -----
+Initial release for Cygwin 1.7.
 
 
 Cygwin port maintained by:
