@@ -1,0 +1,11 @@
+CPAN_AUTHOR=tjmather
+inherit perl
+
+NAME="perl-XML-RegExp"
+VERSION=0.04
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl XML token regexp module"
+DESCRIPTION="This Perl module contains regular expressions for the following XML 
+tokens: BaseChar, Ideographic, Letter, Digit, Extender, CombiningChar,
+NameChar, EntityRef, CharRef, Reference, Name, NmToken, and AttValue."

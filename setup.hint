@@ -1,6 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl XML token regexp module"
-ldesc: "This Perl module contains regular expressions for the following XML 
-tokens: BaseChar, Ideographic, Letter, Digit, Extender, CombiningChar,
-NameChar, EntityRef, CharRef, Reference, Name, NmToken, and AttValue."
